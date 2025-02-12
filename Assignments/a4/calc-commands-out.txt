@@ -1,0 +1,17 @@
+> set y 10
+> eval y 1 - sqrt()
+3.0
+> infix
+sqrt((y - 1.0))
+> postfix
+y 1.0 - sqrt()
+> deps
+[y]
+> opcount
+2
+> optimize
+> infix
+3.0
+> opcount
+0
+Bye!

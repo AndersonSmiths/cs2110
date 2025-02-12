@@ -1,0 +1,37 @@
+# Assignment 3 reflection
+
+## Submitter metadata
+
+Partner 1: Firstname Lastname (NetID)  - Anderson Smith (acs374)
+
+Hours spent working on this assignment: 20.0
+
+## Verification questions
+
+1. Run your `CsvJoin` application with program arguments so that it attempts to join
+   `tests/testCsvToList/non-rectangular.csv` (on the left) with `tests/testCsvToList/empty-col.csv`
+   (on the right).  What **red text** does your program print to IntelliJ's console?
+   (as a reminder, it had better not include a stack trace)
+
+   Answer: Input tables are not rectangular.
+
+## Reflection questions
+
+1. Which `LinkedSeq` operation did you think was the most difficult to implement and debug?  What
+   corner case caught you by surprise or was particularly awkward to handle?  Finally, describe a
+   testing scenario that you added which covers this corner case.
+
+   Answer: the remove(elem) method for me was really difficult to implement and debug. This is because
+   I kept on having issues with one of the corner cases; it took me a long time to figure out how to properly
+   remove a node if it was the head. I actually only caught this bug because of a test that I had
+   previously implemented. This test case was, well, testing that the LinkedSeq remained accurate
+   and ordered properly if the head was removed.
+
+2. How did you plan and budget your time so that you could complete and debug your application by
+   the deadline?  If you worked as partners, how did you coordinate to ensure in advance that you
+   would have sufficient time to work on the project together?
+
+   Answer: Up until Thursday, I planned and budgeted my time exactly how the A3 instructions reccommend.
+   Then, because my girlfriend came in town and I needed to pick her up from Syracuse, I skipped out on
+   working on this assignment on thursday. Then, on friday, I completed the main method as well as test cases
+   for it.

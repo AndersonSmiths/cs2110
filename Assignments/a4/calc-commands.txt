@@ -1,0 +1,9 @@
+set y 10
+eval y 1 - sqrt()
+infix
+postfix
+deps
+opcount
+optimize
+infix
+opcount

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="input-tests">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/a3/input-tests.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

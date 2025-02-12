@@ -1,0 +1,29 @@
+# Assignment 1 reflection
+
+## Submitter metadata
+
+Author: Firstname Lastname (NetID)  - Anderson Smith (acs374)
+
+Hours spent working on this assignment: 5.0
+
+## Verification questions
+
+1. What output is printed when your `A1` application is run (with no program arguments)?
+
+   Answer: Order '907' contains 9 items.
+
+## Reflection questions
+
+1. Did any of the "implementation constraints" rule out your first thought for implementing one of
+   the functions? (if so, which ones?)  Next, pick one of the functions and briefly describe an
+   alternative implementation that _would_ violate its implementation constraint (while still
+   fulfilling its specification).
+
+   Answer: When I was first completing the estimatePi function, I overlooked the constraint that
+   stated that the 'Math.pow' function could not be called; I originally intended to approximate
+   pi using a different formula that we used to do so in CS 1112.
+
+   The function collatzSum could be alternatively implemented recursively. Rather than using a while loop,
+   a recursive function could be set up with base cases that determine whether the function is returned (recursively)
+   with s/2 or s*3+1. Although this would work, it could not be done because this method would violate the constraint
+   that requires a while loop.

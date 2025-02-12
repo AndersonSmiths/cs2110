@@ -1,0 +1,17 @@
+(Fill out this file with brief answers, and submit by the checkpoint deadline.)
+
+Name(s) and NetID(s) of group members: Anderson Smith (acs374)
+
+Time spent on the assignment so far, in hours: 7
+
+(1) What have you implemented and tested so far?: I have implemented and tested
+ShortestPaths as well as the seek mehtod for McDiver.
+
+(2) Are there any particularly challenging roadblocks you're working on right now? Or were there any roadblocks that you resolved?
+At first I was attempting to do a recursive DFS but honestly I am still having trouble
+conceptualizing recursion so doing it this way was really difficult for me. When I switched
+to an iterative DFS, however, I felt much more comfortable.
+
+(3) Please share any additional comments and/or concerns about the assignment.
+This is definitley my favorite project so far. I am having fun trying to optimize
+my seek method.

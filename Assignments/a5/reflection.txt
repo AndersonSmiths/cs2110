@@ -1,0 +1,26 @@
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members: Anderson Smith (acs374)
+
+Time spent on the assignment, in hours: ~20
+
+Implementation strategy: I chipped away at this assignment by working on it a few hours every day.
+I had to watch a lot of tutorials (brocode mostly) to make sure that I understood the data structures
+needed. Additonally, the JavaHyperText dcoumentation was the basis of many of algorithms.
+For example, my dfsWalk method was created by follwing the JavaHyperText dfsWalk tutorial.
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+
+Testing strategy: In regard to shortestPath testing, I based my tests off of real life
+paths that I frequently take so as to counteract the difficulty I have conceptualizing graphs.
+I did however struggle slightly in making sure that I got full coverage; I wasn't super confident that I was absolutely
+getting all the corner cases. Nonetheless, I had no problems with shortestPaths and its functionality. As for the
+HeapPQueue testing, I made my tests as I was implementing the class itself, which really helped me understand
+and debug the issues that I was having.
+    (how did you perform testing and design test cases to achieve coverage?)
+
+Known problems: I've ran the program ~50 times and have been able to collect the ring and escape
+every time. However, sometimes McDiver begins exiting too early, which can result in lower scores.
+    (are there any things that do not work?)
+
+Comments on the assignment: Loved this assignment but would have liked to get some practice
+on creating GUI. Can't complain though because of the summer time constraint.

@@ -1,0 +1,7 @@
+Implement WordHunt.main() to perform the following task:
+
+- Read 13 lines of text from the file “index.txt” (in the project’s root directory).
+- On the 13th line, read 37 space-delimited entries.
+- Extract a filename prefix, line number, and word number (dlimited by hyphens) from the 37th entry.
+- Append “.txt” to the filename prefix and open the corresponding file. Read the number of lines specified by the index entry, then read the specified number of words within that line.
+- Report the last word read.

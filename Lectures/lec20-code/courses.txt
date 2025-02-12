@@ -1,0 +1,95 @@
+# Simplified CS course prerequisites
+# Note: 1112 could substitute for 1110
+
+# Data Science for All
+CS1380
+
+# Excursions in Computational Sustainability
+CS2770
+
+# Networks
+CS2850
+
+# Object-oriented Programming and Data Structures
+# Note: 2112 could substitute for 2110
+CS1110 -> CS2110
+
+# Discrete Structures
+# Note: 2802 could substitute for 2800
+CS1110 -> CS2800
+
+# C++ Programming
+CS1110 -> CS2024
+
+# Foundations of Robotics
+CS1110 -> CS4750
+MATH -> CS4750
+
+# Introduction to Scientific Computation
+CS1110 -> CS3220
+MATH -> CS3220
+
+# Computer System Organization and Programming
+CS2110 -> CS3410
+
+# Introduction to Computer Game Architecture
+CS2110 -> CS3152
+
+# Data Structures and Functional Programming
+CS2110 -> CS3110
+# 2800 is technically a corequisite
+CS2800 -> CS3110
+
+# Numerical Analysis: Linear and Nonlinear Problems
+CS3220 -> CS4220
+
+# Introduction to Computer Graphics
+CS2110 -> CS4620
+
+# Machine Learning for Intelligent Systems
+CS2110 -> CS4780
+MATH -> CS4780
+
+# Machine Learning for Data Science
+CS4780 -> CS4786
+
+# Principles of Large-Scale Machine Learning
+CS4780 -> CS4787
+
+# Introduction to Database Systems
+CS2110 -> CS4320
+CS2800 -> CS4320
+
+# Foundations of Artificial Intelligence
+CS2110 -> CS4700
+CS2800 -> CS4700
+
+# Operating Systems
+CS3410 -> CS4410
+
+# Introduction to Computer Networks
+CS4410 -> CS4450
+
+# Introduction to Compilers
+CS3110 -> CS4120
+CS3410 -> CS4120
+
+# Introduction to Analysis of Algorithms
+CS3110 -> CS4820
+
+# Advanced Topics in Computer Game Architecture
+CS3152 -> CS4152
+# Technically only one of 4700, 4620, or INFO 3300 is required
+CS4620 -> CS4152
+CS4700 -> CS4152
+
+# Introduction to Theory of Computing
+CS2800 -> CS4810
+
+# Mathematical Foundations for the Information Age
+CS2800 -> CS4850
+MATH -> CS4850
+
+# Applied Logic
+CS2800 -> CS4860
+MATH -> CS4860
